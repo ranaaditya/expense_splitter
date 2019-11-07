@@ -1,6 +1,8 @@
 # expense_splitter
 
-this is an android app for the **dwoc project - expense_splitter** and for  <a href ="https://github.com/KIRA009/expense-splitter-backend">backend</a>
+this is an android app for the **dwoc project - expense_splitter** and for  <a href ="https://github.com/KIRA009/expense-splitter-backend">backend</a>  
+
+
 We have updated the app with basic layout for login and logout . 
 
 ## Contributing
